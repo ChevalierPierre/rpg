@@ -1,0 +1,36 @@
+NAME=map_test
+GND=27
+WALL=28
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXX      XXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXX      XXXXX  XXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXX      XXXXX  XXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXX        XXX  XXX  *
+XXXXXXXXXXXXXXXXXXXXXXXXXX          XXX  XXX  *
+XXXXXXXXXXXXXSSSXXXXXXXXXX          XXX  XXX  *
+XXXXXXXXXXXXXSSSXXXXXXXXXX                    *
+*                                             *
+*                                             *
+*                                             *
+*                                   XXX  XXX  *
+*                                 XXXXX  XXX  *
+*                                 XXXXX  XXX  *
+*                                   XXX  XXX  *
+*                                   XXX  XXX  *
+XXXXXX  XXX                                   *
+XXXXXX  XXX                                   *
+XXXXXX  XXX                                   *
+* XXXX  XXX                                   *
+* XXXX  XXX                                   *
+*                                             *
+*                                             *
+XXXXX  XXXXXX                                 *
+XXXXX  XXXXXX                                 *
+XXXXX  XXXXXX                            XXXXXX
+XXXXX  XXXXXX                            XXXXXX
+XXXXX  XXXXXX                            XXXXXX
+XXXXX**XXXXXX***********111111***********XXXXXX

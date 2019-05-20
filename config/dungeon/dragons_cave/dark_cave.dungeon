@@ -1,0 +1,8 @@
+hall:main
+main:hall:switch_a:switch_b:corridor
+switch_a:main
+switch_b:main
+corridor:main:key:chamber
+key:corridor
+chamber:corridor:boss
+boss
